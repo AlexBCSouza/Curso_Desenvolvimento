@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+    background-color: rgb(72,209,204);
+    background-color: #3CB371;
+    background-image: url("../Imagens/thumb-1920-744829.jpg");
+    background-repeat: repeat;
+    font-family: 'Meow';
+
+}
+main{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.manchete, .headline, .logo{
+    color: rgb(253, 6, 6);
+    text-align: center;
+}
+.video{
+    text-align: center;
+    padding: 5px 40px;
+    margin-top: 80px;
+    border-radius: 10px; 
+}
